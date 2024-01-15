@@ -1,5 +1,5 @@
 # Phishing URL Detection
-https://github.com/Shivam3775/Phishing-URL-Detection/blob/main/Screenshot%20(488).png
+
 
 
 ## Table of Content
