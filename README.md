@@ -1,6 +1,5 @@
 # Phishing URL Detection
-![image](https://github.com/narayan954/Phishing-URL-Detection/assets/77617189/f4115e7b-d9d4-411d-b769-56992a623400)
-![image](https://user-images.githubusercontent.com/79131292/144742785-d183f50a-52d6-4296-a43a-90a1ee3502d8.png)
+https://github.com/Shivam3775/Phishing-URL-Detection/blob/main/Screenshot%20(488).png
 
 
 ## Table of Content
